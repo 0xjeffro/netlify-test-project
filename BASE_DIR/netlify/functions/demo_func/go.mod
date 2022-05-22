@@ -1,4 +1,4 @@
-module BASE_DIR
+module demo_func
 
 go 1.18
 

@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d15d1e2-a5c5-406e-adc3-038f40266e2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/netlify/functions/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/netlify/functions/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netlify/functions/demo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/netlify/functions/demo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/.idea/demo_func.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify/functions/demo_func/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify/functions/demo/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify/functions/demo/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify/functions/demo/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/netlify/functions/demo" />
       <recent name="$PROJECT_DIR$/netlify/functions" />
     </key>
   </component>
